@@ -1,0 +1,33 @@
+{
+  "name": "mcp-zillow-listing-details",
+  "displayName": "Zillow Listing Details",
+  "version": "1.0.0",
+  "description": "MCP server for Zillow Listing Details. Zillow home details by URL, ZPID, address, or ZIP code. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-zillow-listing-details",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "zillow",
+    "zillow-scraper",
+    "real-estate",
+    "property-data",
+    "zestimate",
+    "zip-code"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "zillow",
+    "zillow-scraper",
+    "real-estate",
+    "property-data",
+    "zestimate",
+    "zip-code"
+  ],
+  "mcpServers": ".mcp.json"
+}

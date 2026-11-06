@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-zillow-listing-details": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-zillow-listing-details"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
