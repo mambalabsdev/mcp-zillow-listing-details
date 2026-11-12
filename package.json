@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-zillow-listing-details",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Zillow Listing Details. Zillow home details by URL, ZPID, address, or ZIP code. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {

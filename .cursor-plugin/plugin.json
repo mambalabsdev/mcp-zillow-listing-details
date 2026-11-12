@@ -1,7 +1,7 @@
 {
   "name": "mcp-zillow-listing-details",
   "displayName": "Zillow Listing Details",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "MCP server for Zillow Listing Details. Zillow home details by URL, ZPID, address, or ZIP code. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs",
